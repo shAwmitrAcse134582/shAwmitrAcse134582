@@ -20,7 +20,7 @@ Skills: c,c++,java,javascript,react,php,sql
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shAwmitrAcse134582&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shAwmitrAcse134582)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/shAwmitrAcse134582)  
 
