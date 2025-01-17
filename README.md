@@ -4,9 +4,9 @@
 
 I am a student of CSE in University Of Barishal.I love programming and learn teachnology.I am currently learning DSA and try to solve problem using DSA on different online Judge.Besides, I am learning MERN stack and try to make learn project.
 
-Skills: c,c++,java,javascript,react,php,sql
+Skills: c,c++,python,django,javascript,react,php,sql
 
-- 🌱 I’m currently learning DSA and MERN stack 
+- 🌱 I’m currently learning DSA and Django
 - 📫 How to reach me: https://www.facebook.com/shawmitra.das 
 
 
