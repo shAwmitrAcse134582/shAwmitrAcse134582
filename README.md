@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Shawmitra Das Dwip
 #### Learner,software developer and problem solver
-![Learner,software developer and problem solver](https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/342199394_182054678035961_186045574249591736_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeHT2OGVsUypGcgKxmvX8uxx9GUJlXv6lbL0ZQmVe_qVsuHGUS8J8_ExRwYJ3jT8rpKErQvmrW-vur0njKnLqLps&_nc_ohc=qHtN0pyHiwMAX_ftDZX&_nc_ht=scontent-sin6-2.xx&oh=00_AfDz8eUfS_xzLl25sC6duktSLz3Rs9ItvXH7muP6y0w46A&oe=6517807C)
+![Learner,software developer and problem solver]
 
 I am a student of CSE in University Of Barishal.I love programming and learn teachnology.I am currently learning DSA and try to solve problem using DSA on different online Judge.Besides, I am learning MERN stack and try to make learn project.
 
