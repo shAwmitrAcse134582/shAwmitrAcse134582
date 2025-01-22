@@ -1,9 +1,7 @@
 ### Hi there 👋, I am Shawmitra Das Dwip
 #### Learner,software developer and problem solver
 
-<p align="center">
-  <img src="[https://via.placeholder.com/1200x400?text=Your+Banner+Here" alt="Banner Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dweb%2Bdevelopment%2Bbanner&psig=AOvVaw3W1RNVqUQZk2K8-tr3Y9Mp&ust=1737654385334000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCsnLnxiYsDFQAAAAAdAAAAABAE)" />
-</p>
+
 
 👋 About Me
 Hi there! I'm a 4th-year student at the University of Barishal, passionate about building innovative solutions through software development and AI/machine learning. With a solid foundation in Python, Django, JavaScript, and databases, I specialize in creating efficient and scalable applications.
