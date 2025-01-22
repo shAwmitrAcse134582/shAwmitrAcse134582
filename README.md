@@ -1,31 +1,19 @@
 ### Hi there 👋, I am Shawmitra Das Dwip
 #### Learner,software developer and problem solver
 
-
-
-👋 About Me
-Hi there! I'm a 4th-year student at the University of Barishal, passionate about building innovative solutions through software development and AI/machine learning. With a solid foundation in Python, Django, JavaScript, and databases, I specialize in creating efficient and scalable applications.
-
-🎯 What Drives Me
-Problem Solver: I thrive on tackling complex challenges with creativity and logic.
-Learner: I'm constantly exploring new technologies to enhance my skills and stay ahead in the tech world.
-Innovator: I love creating impactful solutions.
-🛠️ Tech Stack
-Languages: Python, JavaScript
-Frameworks: Django,React.js
-Other Tools: SQL, Git
-🌟 Beyond Code
-When I'm not coding, you’ll find me exploring the intersection of technology and creativity or brainstorming ways to make life easier through software.
-
-📬 Let's Connect
-I'm always open to collaboration and learning opportunities. Feel free to connect with me on LinkedIn or explore my repositories to see my work.
-
-
-
-Skills: c,c++,python,django,javascript,react,php,sql
-
 - 🌱 I’m currently learning DSA and Django
-- 📫 How to reach me: https://www.facebook.com/shawmitra.das
+- 📫 How to reach me: (https://www.linkedin.com/in/shawmitra-das-3653861b9/)
+  
+
+  #### 🏆 Competitive Programming:
+- **Languages**: C++, Python, JavaScript
+- **Algorithms & Data Structures**: Sorting, Searching, Graph Algorithms, Dynamic Programming, Greedy Algorithms, Trees, Binary Search, etc.
+- **Problem-Solving Platforms**: Codeforces, LeetCode, CodeChef, AtCoder,Coding Ninja,Hackerrank
+
+#### 💻 Web Development:
+- **Frontend**: HTML, CSS, JavaScript, React.js
+- **Backend**: PHP, Django
+- **Database**: SQL, SQLite,Postgresql
 
 <h3 align="center">A passionate Software Developer From Bangladesh</h3>
 
@@ -63,6 +51,6 @@ Skills: c,c++,python,django,javascript,react,php,sql
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/shAwmitrAcse134582)  
+  
 
  
